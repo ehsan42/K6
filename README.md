@@ -1,2 +1,2 @@
-# K6 Load Testing Scripts
+# K6 Load Testing Scripts.
 
